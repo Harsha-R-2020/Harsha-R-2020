@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Harsha-R-2020
 - 👀 I’m interested in machine learning and cyber security
 - 🌱 I’m currently a first year CSE student
+- ❤️ Relationship: single 😎
 - 📫 How to reach me :
 you can reach me on instagram : @__harsha_r
 or by mail : harsharamar2020@gmail.com
