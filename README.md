@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harsha-R-2020
-- 👀 I’m interested in machine learning and cyber security
+- 👀 I’m interested in machine learning and AI
 - 🌱 I’m currently a first year CSE student
 - ❤️ Relationship: single 😎
 - 📫 How to reach me :
