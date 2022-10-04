@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Harsha-R-2020
 - 👀 I’m interested in machine learning and AI
-- 🌱 I’m currently a first year CSE student
-- ❤️ Relationship: single 😎
+- 🌱 I’m currently a CSE student at Ramco Institute Of Technology
 - 📫 How to reach me :
-you can reach me on instagram : @__harsha_r
+you can reach me on instagram : @_harsha_r_2160
 or by mail : harsharamar2020@gmail.com
 
 <!---
